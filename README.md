@@ -1,6 +1,6 @@
 # Feedback System
 
-This is a feedback system. The GUI is created using python (Tkinter) and the results are stored in a MYSQL database.
+This is a feedback system. The GUI is created using python (Tkinter) and the results are stored in a MySQL database.
 
 ## Installation
 
